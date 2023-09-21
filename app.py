@@ -4,7 +4,6 @@ st.set_page_config(page_title="Music Mastermind", layout="wide")
 import pandas as pd
 from sklearn.neighbors import NearestNeighbors
 import base64
-import plotly.express as px
 import streamlit.components.v1 as components
 
 @st.cache_data
