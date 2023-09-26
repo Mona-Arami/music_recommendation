@@ -18,11 +18,11 @@ Welcome to the masterMind Music Recommendation ML App! This application leverage
 
 - **User-Friendly Interface:** An intuitive and user-friendly interface makes it easy to navigate and find the music you love.
 
-- **Cross-Platform:** Access your music recommendations from any device with our web and mobile app support.
+- **Cross-Platform:** Access to Spotify musics URI from any device with our web and mobile app support.
 
 ## Getting Started
 
-wW will build this recommendation engine with Streamlit, the k-Nearest Neighbors machine learning model with Scikit-learn, and deploy our website using AWS EC2.
+This App will build recommendation engine with Streamlit, the k-Nearest Neighbors machine learning model with Scikit-learn, and deploy our Web App using AWS EC2.
 
 ## Dataset
 
