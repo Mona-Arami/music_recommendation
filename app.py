@@ -53,6 +53,15 @@ def web_page():
         color:#736bae;
         min-height: 0rem;
         }}
+        .css-ue6h4q {{
+        color:#736bae;
+        }}
+        .css-1n543e5 {{
+        color:#736bae; !important
+        }}
+        .css-1n543e5 {{
+        color:#736bae; !important
+        }}
         .st-cg{{
         color:#ffffff;
         }}
