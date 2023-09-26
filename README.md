@@ -6,8 +6,8 @@ Welcome to the masterMind Music Recommendation ML App! This application leverage
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Dataset](#dataset)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
 - [How it Works](#how-it-works)
 
 ## Features
